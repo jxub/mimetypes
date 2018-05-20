@@ -8,7 +8,7 @@
     ]},
     {mod, {mimetypes_app, []}},
     {env, []},
-    {maintainers, ["Yurii Rashkovskii", "ErlangPack"]},
+    {maintainers, ["Yurii Rashkovskii", "ErlangPack", "Jakub Janarek"]},
     {licenses, ["BSD"]},
-    {links, [{"Github", "https://github.com/erlangpack/mimetypes"}]}
+    {links, [{"Github", "https://github.com/jxub/mimetypes"}]}
 ]}.
