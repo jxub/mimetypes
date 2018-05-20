@@ -1,5 +1,5 @@
 {application, mimetypes, [
-    {vsn, "git"},
+    {vsn, "1.1.1"},
     {description, "mimetypes"},
     {registered, [mimetypes]},
     {applications, [
